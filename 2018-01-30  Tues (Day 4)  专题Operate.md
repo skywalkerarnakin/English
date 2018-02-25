@@ -180,7 +180,7 @@ com + pose
 源自法语 compris, compris是法语单词comprendre的过去分析
 **Origin**
 Late Middle English: from French, ‘comprised’, feminine past participle of comprendre, from Old French comprehender (see comprehend).
-**Etymolog**
+**Etymology**
 early 15c., "to include," from Old French compris, past participle of comprendre "to contain, comprise" (12c.), from Latin comprehendere (see comprehend). Related: Comprised; comprising.
 2. 记忆, comprise,  prise的p可以理解成Part的P
 3. 定义
@@ -249,7 +249,7 @@ Meaning "proper place occupied by a person or thing" is from 1540s. Meaning "man
 1. 词源,
 **Origin**
 Late Middle English: via Old French from Latin creatio(n-), from the verb creare (see create).
-**Egymology**
+**Etymology**
 late 14c., "action of creating, a created thing," from Old French creacion (14c., Modern French création) "creation, coming into being," from Latin creationem (nominative creatio) "a creating, a producing," in classical use "an electing, appointment, choice," noun of action from past participle stem of creare "to make, bring forth, produce, beget," from PIE root *ker- (2) "to grow."
 Meaning "that which God has created, the world and all in it" is from 1610s. The native word in the Biblical sense was Old English frum-sceaft. Of fashion costumes, desserts, etc., from 1870s, from French. Creation science is attested by 1970.
 2. 记忆, create
