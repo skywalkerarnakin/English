@@ -25,6 +25,7 @@ members = [(1, '@meloday真'), (2, '@Grace'), (3, '@穆紫'), (4, '@aqua'), (5, 
 resources = ['桃子Mélodie老师', '黄超超']
 members = '@melody真,@Grace,@穆紫,@aqua,@云中君,@董长青,@Penny,@arnkin, @DFK'
 ```
+- 2018-02-06 `@ji_ji`进群照顾`@桃子老师`
 - 2018-02-08 神点评`@大马工作`入伙
 - 2018-02-09 共同研究英语的发展史, 由 @melody真 在群里分享一本’英语发展史’发起.
 - 2018-02-11 推荐’Python Crash Course’, 英语的第一个实际应用是编程.
