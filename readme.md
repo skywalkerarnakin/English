@@ -52,3 +52,33 @@ Auspice(n.吉兆；预兆；(以飞鸟行动为根据的)占卜，词根“obser
 	1. 方法很重要，你的所谓弱项只是因为不得其法；
 	2. 与厉害的人为伍很重要，如果一直一个人单练，可能我一直都是走路上坡，而不是跑步上坡；
 	3. 有前面两点，再加入投入时间，用克服爬坡的办法来学习英语，相信一定可以的。[Clap][Fist]
+- 2018-02-27 注册成功Github
+```python
+github_members = {
+    'aqua':'aqua2018',
+    'Grace':'GGG-Grace',
+    '穆紫':'lanmz',
+    'melody真':'liuzhen11',
+    'Penny':'Penny2018',
+    '董长青':'benboshy',
+    'arnakin':'skywalkerarnakin',
+    'MDFK': 'M-DFK',
+}
+github_resource = {
+    'ji_ji':'zrdsj',
+}
+```
+**Members Link**
+
+1. [aqua2018](https://github.com/aqua2018)
+2. [GGG-Grace](https://github.com/GGG-Grace)
+3. [lanmz](https://github.com/lanmz)
+4. [liuzhen11](https://github.com/liuzhen11)
+5. [Penny2018](https://github.com/Penny2018)
+6. [benboshy (benboshy)](https://github.com/benboshy)
+7. [skywalkerarnakin](https://github.com/skywalkerarnakin)
+8. [M-DFK (MDFK)](https://github.com/M-DFK)
+
+**Resource**
+
+1. [zrdsj (ji_ji)](https://github.com/zrdsj)
