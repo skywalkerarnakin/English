@@ -1,5 +1,49 @@
 @penny
 
+**Creek** [kri:k]
+
+1. 助记 
+
+   a natural stream of water smaller than a river (and often a tributary of a river)
+
+   **up the creek**: 处于困境；怀孕；不正确的
+
+   **tidal creek**: 潮沟；潮溪
+
+2. 词源
+
+   Creek克里克语,克里克联盟的印第安人(现居于美国 Oklahoma)
+
+3. 释义
+
+   1. （通海、湖等的）小湾，小港 noun countable UK a narrow area of water that flows into the land from the sea, a lake, etc. 
+   2. 小溪，小河a stream or narrow river 
+   3. up the creek informal in trouble 陷入困境；处于困境
+
+
+
+**Phobia** UK ['fəʊ.bi.ə] **US** ['foʊ.bjə]
+
+1. 助记
+
+   （尤指道理上无法解释的）恐惧，惧怕 an extreme fear of a particular thing or situation, especially one that cannot be reasonably explained 
+
+2. 词源
+
+   词根：[phob, phobia](http://www.youdict.com/root/id/512) = dislike, fear 厌恶, 怕
+
+     来源于希腊语 phobos 怕。
+
+   【来源及含义】Greek: fear, extreme fear of; morbid, excessive, irrational fear, or terror of something or someone; however, sometimes this Greek element also means a strong dislike, dread, or hatred for something or someone
+
+3. 释义
+
+   *n.* 恐惧, 厌恶 恐惧症
+
+   an anxiety disorder characterized by extreme and irrational fear of simple things or social situations
+
+   ​
+
 **Blush**
 1. 助记
 to become red in the face, usually because you are embarrassed 〔通常因难为情而〕脸红
