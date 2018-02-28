@@ -1,5 +1,4 @@
-# Readme
-#2.3.displines/词汇#
+
 
 ## Project Log
 
@@ -20,10 +19,10 @@
 resoures = ['桃子Mélodie老师', '黄超超']
 members = [(1, '@meloday真'), (2, '@Grace'), (3, '@穆紫'), (4, '@aqua'), (5, '@云中君'), (6, '@董长青'), (7, '@thunder'), (8, '@Penny'), (9, '@DFK')]
 ```
-- 2018-02-05 理工达人`@arnkin` 入伙.
+- 2018-02-05 理工达人`@arnakin` 入伙.
 ```python
 resources = ['桃子Mélodie老师', '黄超超']
-members = '@melody真,@Grace,@穆紫,@aqua,@云中君,@董长青,@Penny,@arnkin, @DFK'
+members = '@melody真,@Grace,@穆紫,@aqua,@云中君,@董长青,@Penny,@arnakin, @DFK'
 ```
 - 2018-02-06 `@ji_ji`进群照顾`@桃子老师`
 - 2018-02-08 神点评`@大马工作`入伙
@@ -42,11 +41,10 @@ Auspice(n.吉兆；预兆；(以飞鸟行动为根据的)占卜，词根“obser
 	1. 团队开始使用Markdown编辑软件typora
 	2. 查询单词阶段收尾,进入读书阶段.
 - 2018-02-25 
+  1. 使用Github协作
+  2. Grace完成第一本书的目录整理
 
 
-
-	1. 使用Github协作
-	2. Grace完成第一本书的目录整理
 -  2018-02-26
 	- 探讨投入大块时间,碾碎英语.
  @aqua的分享
@@ -57,7 +55,7 @@ Auspice(n.吉兆；预兆；(以飞鸟行动为根据的)占卜，词根“obser
 	3. 有前面两点，再加入投入时间，用克服爬坡的办法来学习英语，相信一定可以的。[Clap][Fist]
 - 2018-02-27 
   1. aqua分享第一份阅读查询作业.
-  2. 确定单词查询的内容项目(助记,词源,释义,拓展)的排版`version_1`
+  2. 确定单词清单内的项目(助记,词源,释义,拓展)的排版格式`version_1`
   2. 注册成功Github
 ```python
 github_members = {
@@ -74,7 +72,7 @@ github_resource = {
     'ji_ji':'zrdsj',
 }
 ```
-**Members Link**
+**Members**
 
 1. [aqua2018](https://github.com/aqua2018)
 2. [GGG-Grace](https://github.com/GGG-Grace)
@@ -88,3 +86,8 @@ github_resource = {
 **Resource**
 
 1. [zrdsj (ji_ji)](https://github.com/zrdsj)
+
+
+
+#2.3.displines/词汇#
+
