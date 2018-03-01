@@ -26,6 +26,7 @@ automation Technology 自动化技术
 
 
 
+
  **Autonomous**
 
 1. 助记
@@ -48,6 +49,7 @@ automation Technology 自动化技术
   autonomous driving 自动驾驶
   autonomous underwater vehicles 自动潜水（水下航行器）
   the spread of autonomous robotic weaponry 自动机器人武器的扩散（这个是现在争议最大的）
+
 
 
 
