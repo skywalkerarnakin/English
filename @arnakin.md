@@ -70,7 +70,41 @@ automation Technology 自动化技术
   * to check a measuring instrument to see if it is accurate.
 4. 相关词语和词组
   Chessboard is a simple but very useful criteria for the calibration of robotic binocular vision.
-  对机器人双目视觉标定来说，国际象棋棋盘是简单但很有效的标准。
+  对机器人双目视觉标定来说，国际象棋棋盘是简单但很有效的标准。
+
+
+
+
+
+
+ **Alternate**
+
+1. 助记
+   alter-
+   Latin: different, other, another; to change, to modify
+
+   -ate (to do)
+   Latin: a suffix; to do, to make, to cause, or to act upon; to do something with
+
+2. 词源
+   **OED Origin**
+   Early 16th century (earlier ( late Middle English) as alternation): from Latin alternat- ‘done by turns’, from alternare, from alternus ‘every other’, from alter ‘other’.
+   **Etymology**
+   "following each other by turns, reciprocal," 1510s, from Latin alternatus "one after the other," past participle of alternare "to do first one thing then the other; exchange parts," from alternus "one after the other, alternate, in turns, reciprocal," from alter "the other" (see alter).
+
+   Alternate means "by turns;" alternative means "offering a choice." Both imply two kinds or things. Alternation is the process of two things following one another regularly by turns (as night and day); an alternative is a choice of two things, the acceptance of one implying the rejection of the other. Related: Alternacy.
+
+3. 释义
+   vi. 交替；轮流；adj. 交替的； 
+
+   - to happen or exist one after the other repeatedly.
+   - with first one thing, then another thing, and then the first thing again
+
+4. 相关词语和词组
+   alternate current 交流电
+
+
+
 
 
 
